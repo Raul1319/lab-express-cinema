@@ -1,8 +1,36 @@
 body {
   padding: 50px;
+  margin: 0px;
+  padding: 0px;
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
 }
 
 a {
   color: #00B7FF;
+}
+
+.home-diplay{
+  padding: 30px;
+  margin-right: 100px;
+  position: relative;
+}
+
+#intro-para {
+  font-size: 16px;
+}
+
+#show-link {
+  position: absolute;
+  right: 40px;
+}
+
+#show-link h1{
+  color: #fff;
+  font-size: 100px;
+  margin-top: none;
+}
+#check-movies {
+  color: crimson;
+  text-decoration: none;
+  font-size: 16px;
 }
